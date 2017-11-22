@@ -22,6 +22,10 @@ a:link,a:visited,a:hover,a:active{
 .panel h4{
     text-align: center;
 }
+.table.table-bordered td {
+    text-align: center;
+    vertical-align: middle;
+  }
 
 /* 侧边栏 */
 .lt_aside{
